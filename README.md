@@ -1,5 +1,3 @@
-# Livro de Receitas :beer:
+# Introdução ao Github
 
-Olá, bem vindo ao meu livro de receitas
-
-- Strogonoff
+Repositório criado como exemplo ao que foi passado no Bootcamp Database Experience, da plataforma Digital Innovation One (DIO), onde também foi passado uma introdução ao Git e ao Github.
