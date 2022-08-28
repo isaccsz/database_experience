@@ -5,4 +5,4 @@ Repositório criado como exemplo ao que foi passado no Bootcamp Database Experie
 # Livro de Receitas
 
 - Strogonoff
-- Pavê
+- Bolo de Cenoura
